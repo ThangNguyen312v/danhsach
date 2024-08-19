@@ -1,0 +1,14 @@
+E:\danhsach\bin\Debug\net8.0\danhsach.exe
+E:\danhsach\bin\Debug\net8.0\danhsach.deps.json
+E:\danhsach\bin\Debug\net8.0\danhsach.runtimeconfig.json
+E:\danhsach\bin\Debug\net8.0\danhsach.dll
+E:\danhsach\bin\Debug\net8.0\danhsach.pdb
+E:\danhsach\obj\Debug\net8.0\danhsach.GeneratedMSBuildEditorConfig.editorconfig
+E:\danhsach\obj\Debug\net8.0\danhsach.AssemblyInfoInputs.cache
+E:\danhsach\obj\Debug\net8.0\danhsach.AssemblyInfo.cs
+E:\danhsach\obj\Debug\net8.0\danhsach.csproj.CoreCompileInputs.cache
+E:\danhsach\obj\Debug\net8.0\danhsach.dll
+E:\danhsach\obj\Debug\net8.0\refint\danhsach.dll
+E:\danhsach\obj\Debug\net8.0\danhsach.pdb
+E:\danhsach\obj\Debug\net8.0\danhsach.genruntimeconfig.cache
+E:\danhsach\obj\Debug\net8.0\ref\danhsach.dll
